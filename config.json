@@ -1,0 +1,6 @@
+{
+  "server_url": "https://sinhapay-server-production.up.railway.app",
+  "version": 1,
+  "algorithm": "Ed25519",
+  "signature": "iE2YYsPVkyJyNfyHcJn0FG7HE4AYC8n4XxYwAN74n03EBPtwXYGro31q1h5dXW7V5kuYJw+E7YEQjq9RPp/aAA=="
+}
